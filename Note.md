@@ -8,7 +8,7 @@
 | ------------- | ------------- |
 | PopOS!| 針對Linux 驅動優化版本  |
 | Lubuntu |   |
-| Majour  | Content Cell  |
+| Manjaro  | Content Cell  |
 
 ## 瀏覽器架構
 
@@ -18,3 +18,6 @@
 | Gecko |   |
 | Trident  |  |  
 | Webkit  |   |
+
+注意：驅動是隨Linux Kernel 封裝的，Kernel 更新才能支援更新硬體
+若要安裝Linux 一定要注意安裝事項，選用正確安裝寫入工具
